@@ -263,7 +263,7 @@ function create_config( )
     sudo_users = {299453239,182255045,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-	@permag_bots
+	@N1M4KM
 ]],
     help_text_realm = [[
 ]],
